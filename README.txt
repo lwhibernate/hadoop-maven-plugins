@@ -79,6 +79,7 @@ to Maven's compile sources directory
         </source>
 
         <!-- Optional configuration, shown with default values -->
+        <!-- same as include of make -->
         <imports>
           <param><!-- no default --></param>
           ...
